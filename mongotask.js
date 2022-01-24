@@ -254,3 +254,10 @@ db.collection.find({ // not working
 
 // Delete the products which product price value are same
 //doubt
+
+db.Zenclass.insertMany([
+{
+    "Name":"Rajkumar",
+    "Codekata":
+}    
+])
